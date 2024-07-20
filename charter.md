@@ -34,5 +34,5 @@ interest are:
 
 The NTNRG may produce recommendations for changes to IETF protocols or their
 operation, based on discussion of factors relevant to NTNs, but will defer
-standardization of any such changes to any associated working groups within
+standardization of any such changes to appropriate working groups within
 the IETF.
