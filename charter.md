@@ -32,6 +32,11 @@ interest are:
   * guidance on whether and how traffic engineering may be optimally
     employed.
 
+NTNRG may also consider the implications of and requirements for NTN nodes
+from different administrative domains dynamically forming connectivity.
+The control plane requirements and trust model design parameters are
+especially relevant.
+
 The NTNRG may produce recommendations for changes to IETF protocols or their
 operation, based on discussion of factors relevant to NTNs, but will defer
 standardization of any such changes to appropriate working groups within
