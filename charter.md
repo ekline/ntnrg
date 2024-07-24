@@ -11,11 +11,13 @@ trajectories.
 
 Previous research work (DTNRG) focused on the delay and disruption tolerance
 required to communicate effectively in extreme connectivity-challenged
-scenarios (vis. RFC 4838). Since that time, network nodes on aerospace
-platforms in the cislunar regime have seen a rapid rise in deployment and
-scale. This regime poses less extreme time constraints on connectivity, but
-the rapidity of change and variability of topologies that might be built
-among nodes moving through this environment present new challenges.
+scenarios (vis. RFC 4838). This this led to the creation of the DTNWG which
+has standardized BPv7 and BPSec, which are ready for operational use.
+Since that time, network nodes on aerospace platforms in the cislunar regime
+have seen a rapid rise in deployment and scale. This regime poses less extreme
+time constraints on connectivity, but the rapidity of change and variability
+of topologies that might be built among nodes moving through this environment
+present new challenges.
 
 The intended work products of the NTNRG include evaluation of the impact to
 inter-networking among NTN nodes imposed by these deployments as well as
@@ -24,9 +26,11 @@ interest are:
 
   * simulation, measurement, or testing techniques that are particularly
     well suited for NTNs,
-  * the impact to transport protocols as paths experience normal changes
-    in characteristics like latency, jitter, and loss associated with
+  * analysis of any impact to transport protocols as paths experience normal
+    changes in characteristics like latency, jitter, and loss associated with
     nominal platform behavior,
+  * investigations of the benefit of standard protocols (e.g. BP, QUIC) in
+    emerging NTN architectures,
   * proposals for scalable, stable routing or network orchestration
     strategies in such a dynamic environment, and
   * ideas on whether and how traffic engineering may be optimally
