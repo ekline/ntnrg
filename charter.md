@@ -29,8 +29,8 @@ interest are:
   * analysis of any impact to transport protocols as paths experience normal
     changes in characteristics like latency, jitter, and loss associated with
     nominal platform behavior,
-  * investigations of the benefit of standard protocols (e.g. BP, QUIC) in
-    emerging NTN architectures,
+  * investigations of the benefit of standard protocols (e.g. BP, QUIC, IP
+    extensions, SRv6, etc) in emerging NTN architectures,
   * proposals for scalable, stable routing or network orchestration
     strategies in such a dynamic environment, and
   * ideas on whether and how traffic engineering may be optimally
