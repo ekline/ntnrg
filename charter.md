@@ -37,8 +37,8 @@ from different administrative domains dynamically forming connectivity.
 The control plane requirements and trust model design parameters are
 especially relevant.
 
-The work in the NTNRG may include proposed extensions, profiles, or
-configurations of IETF protocols or their operation. Providing
-recommendations to the IETF is not an objective of this RG; standardization
-of any such changes is deferred to the appropriate working groups within
-the IETF.
+An explicit non-goal is to propose changes to existing IETF protocols.
+The research group may explore ideas that require such changes, and is uniquely
+placed to discuss their implications with the IETF community, but the potential
+incorporation of such ideas into the standards process is a matter for the IETF
+and is out of scope for this group.
