@@ -28,13 +28,9 @@ interest are:
     well suited for NTNs,
   * analysis of any impact to transport protocols as paths experience normal
     changes in characteristics like latency, jitter, and loss associated with
-    nominal platform behavior,
-  * investigations of the benefit of standard protocols (e.g. BP, QUIC, IP
-    extensions, SRv6, etc) in emerging NTN architectures,
-  * proposals for scalable, stable routing or network orchestration
-    strategies in such a dynamic environment, and
-  * ideas on whether and how traffic engineering may be optimally
-    employed.
+    nominal platform behavior, and
+  * investigations of the challenges and benefits of tuning existing
+    transport and application protocols in emerging NTN architectures.
 
 NTNRG may also consider the implications of and requirements for NTN nodes
 from different administrative domains dynamically forming connectivity.
